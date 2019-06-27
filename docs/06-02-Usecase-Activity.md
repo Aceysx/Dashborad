@@ -8,7 +8,7 @@
 
 活动图：
 
-![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-02-Usecase-denglu.png)
+![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-02-Usecase-denglu.png?raw=true)
 
 ## 发布任务
 简要说明  
@@ -19,7 +19,7 @@
 
 活动图：
 
-![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-02-Usecase-fabu.png)
+![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-02-Usecase-fabu.png?raw=true)
 
 ## 接受任务
 简要说明  
@@ -30,4 +30,4 @@
 
 活动图：
 
-![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-02-Usecase-jieshou.png)
+![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-02-Usecase-jieshou.png?raw=true)
