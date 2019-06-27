@@ -1,3 +1,3 @@
 # Usecase Diagram
 
-![](https://github.com/Earn-Money-System/Dashboard/blob/master/imgs/UsecaseDiagram.jpg?raw=true)
+![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-01-UsecaseDiagram2.png)
