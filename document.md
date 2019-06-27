@@ -6,13 +6,13 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1、[About](01-about)（项目概况）
-* 2、[Team profile](./docs/02-team-profile)（团队组建与分工）√
-* 3、[Investigation](03-invest)（项目前期调研/竞品分析）
-* 4、[Vision](04-vision)（项目愿景）
-* 5、[Product Backlog](05-backlog) （产品特性库）
+* 1、[About]([01-about](https://github.com/the-earn-money-system/Document/blob/master/docs/01-About.md))（项目概况）
+* 2、[Team profile](https://github.com/the-earn-money-system/Document/blob/master/docs/02-team-profile.md)（团队组建与分工）√
+* 3、[Investigation](https://github.com/the-earn-money-system/Document/blob/master/docs/03-Investigation.md)（项目前期调研/竞品分析）
+* 4、[Vision](https://github.com/the-earn-money-system/Document/blob/master/docs/04-Vision.md)（项目愿景）
+* 5、[Product Backlog](https://github.com/the-earn-money-system/Document/blob/master/docs/05-Product-Backlog.md) （产品特性库）
 * 6、Requirement specification（需求规格说明书）
-    - 6.1 [Usecase Diagram（用例图）](https://raw.githubusercontent.com/the-earn-money-system/Document/master/docs/06-01-usecase-diagram.md)
+    - 6.1 [Usecase Diagram（用例图）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-01-usecase-diagram.md)
     - 6.2 Use Cases（用例+活动图）
     - 6.3 Domian Models（领域模型）
     - 6.4 State Models（状态模型）
