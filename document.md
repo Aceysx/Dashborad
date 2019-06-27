@@ -6,7 +6,7 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1、[About]([01-about](https://github.com/the-earn-money-system/Document/blob/master/docs/01-About.md))（项目概况）
+* 1、[About](https://github.com/the-earn-money-system/Document/blob/master/docs/01-About.md)（项目概况）
 * 2、[Team profile](https://github.com/the-earn-money-system/Document/blob/master/docs/02-team-profile.md)（团队组建与分工）√
 * 3、[Investigation](https://github.com/the-earn-money-system/Document/blob/master/docs/03-Investigation.md)（项目前期调研/竞品分析）
 * 4、[Vision](https://github.com/the-earn-money-system/Document/blob/master/docs/04-Vision.md)（项目愿景）
