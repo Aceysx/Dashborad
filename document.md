@@ -18,7 +18,7 @@ layout: default
     - 6.4 [State Models（状态模型）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-04-State-Model.md)
     - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-05-System-Sequence-Diagram.md)
     - 6.6 [Supplementary Requirements（补充需求）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-06-Supplementary%20Requirements.md)
-* 7、[Design](07-designs)（设计说明书）
+* 7、[Design](https://github.com/the-earn-money-system/Document/blob/master/Design%EF%BC%88%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%89.md)（设计说明书）
     - 7.1 [UI design（界面设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/07-01-UI%20design.md)
     - 7.2 [Database design（数据库设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/07-02-Database%20design.md)
     - 7.3 [Interface API design（接口 API 设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/07-03-API%20design.md)
@@ -38,13 +38,13 @@ layout: default
     -   [Meeting 3(19/06/27)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2027.md)
     -   [Meeting 4(19/06/30)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2030.md)
 * X2 [KANBAN](https://github.com/the-earn-money-system/Document/projects/1)
-* X3 [auditing-records](x3-auditing)
-* X4 [Tech/Work Report](x4-techniques)
+* X3 [auditing-records]
+* X4 [Tech/Work Report]
      - [动态列表的目标定位](https://github.com/the-earn-money-system/Document/blob/master/docs/report/动态列表的目标定位.md)
      - [使用云函数操作数据库并使用返回的数据](https://github.com/the-earn-money-system/Document/blob/master/docs/report/使用云函数操作数据库并使用返回的数据.md)
      - [使用Axure RP进行微信小程序的UI设计](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/%E4%BD%BF%E7%94%A8Axure%20RP%E8%BF%9B%E8%A1%8C%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84UI%E8%AE%BE%E8%AE%A1.md)
      - [关于团队工作的管理与反思](https://blog.csdn.net/DerryYan/article/details/94367706)
-* X5 [Final Report](x5-summary)
+* X5 [Final Report]
     - 学号-title
      - [16340180-qw2002q-报告](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_qw2002q_报告.md>)
      - [16340194-苏伟聪-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
