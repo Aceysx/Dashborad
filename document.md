@@ -31,14 +31,14 @@ layout: default
     - 8.4 [部署说明](https://github.com/the-earn-money-system/Document/blob/master/docs/安装部署说明.md)
 * 9、成品展示
     - 9.1 [演示短视频(github)](https://github.com/the-earn-money-system/Earn-Money-System/blob/master/演示视频.mp4)
-    - 9.2 XX短视频
+    - 9.2 演示短视频网址(bilibili 待审核)
 * X1 [meeting-records](x1-meetings)
     -   [Meeting 1(19/06/23)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2023.md)
     -   [Meeting 2(19/06/25)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2025.md)
     -   [Meeting 3(19/06/27)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2027.md)
     -   [Meeting 4(19/06/30)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2030.md)
 * X2 [KANBAN](https://github.com/the-earn-money-system/Document/projects/1)
-* X3 [auditing-records]
+* X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
     - [16340180-qw2002q-动态列表的目标定位](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_qw2002q_报告.md>)
     - [16340194-苏伟聪-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
