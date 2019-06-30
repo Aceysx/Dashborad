@@ -38,7 +38,7 @@ layout: default
     -   [Meeting 3(19/06/27)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2027.md)
     -   [Meeting 4(19/06/30)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2030.md)
 * X2 [KANBAN](https://github.com/the-earn-money-system/Document/projects/1)
-* X3 [auditing-records](x3-auditing)
+* X3 [auditing-records]
 * X4 [Tech/Work Report](x4-techniques)
     - [16340180-qw2002q-动态列表的目标定位](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_qw2002q_报告.md>)
     - [16340194-苏伟聪-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
