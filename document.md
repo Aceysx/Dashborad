@@ -33,7 +33,10 @@ layout: default
     - 9.1 [演示短视频(github)](https://github.com/the-earn-money-system/Earn-Money-System/blob/master/演示视频.mp4)
     - 9.2 XX短视频
 * X1 [meeting-records](x1-meetings)
-    - inception meeting (yy/mm/dd)
+    -   [Meeting 1(19/06/23)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2023.md)
+    -   [Meeting 2(19/06/25)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2025.md)
+    -   [Meeting 3(19/06/27)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2027.md)
+    -   [Meeting 3(19/06/27)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2030.md)
 * X2 [KANBAN](https://github.com/the-earn-money-system/Document/projects/1)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
