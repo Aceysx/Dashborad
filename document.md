@@ -21,8 +21,8 @@ layout: default
 * 7、[Design](07-designs)（设计说明书）
     - 7.1 [UI design（界面设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/07-01-UI%20design.md)
     - 7.2 [Database design（数据库设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/07-02-Database%20design.md)
-    - 7.3 Interface API design（接口 API 设计）
-    - 7.4 [Architecture design（架构设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/软件设计文档.md)
+    - 7.3 [Interface API design（接口 API 设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/07-03-API%20design.md)
+    - 7.4 [Architecture design（架构设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/07-04-Architecture%20design%EF%BC%88架构设计%EF%BC%89.md)
     - 7.5 [Usecase design（用例设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-01-UsecaseDiagram.png?raw=true)
 * 8、生产规范与指南
     - 8.1 XX 代码规范
