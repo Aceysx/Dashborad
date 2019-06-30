@@ -43,10 +43,12 @@ layout: default
      - [动态列表的目标定位](https://github.com/the-earn-money-system/Document/blob/master/docs/report/动态列表的目标定位.md)
      - [使用云函数操作数据库并使用返回的数据](https://github.com/the-earn-money-system/Document/blob/master/docs/report/使用云函数操作数据库并使用返回的数据.md)
      - [使用Axure RP进行微信小程序的UI设计](https://github.com/sunzh871041162/sunzh871041162.github.io/blob/master/%E4%BD%BF%E7%94%A8Axure%20RP%E8%BF%9B%E8%A1%8C%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84UI%E8%AE%BE%E8%AE%A1.md)
+     - [关于团队工作的管理与反思](https://blog.csdn.net/DerryYan/article/details/94367706)
 * X5 [Final Report](x5-summary)
     - 学号-title
      - [16340180-qw2002q-报告](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_qw2002q_报告.md>)
      - [16340194-苏伟聪-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
      - [16340199-sunzh871041162-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340199_sunzhenhuan_final_report.md)
+     - [16340201-Derryyan](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340201-Derryyan.md)
     - [小组分工与贡献率说明](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
 
