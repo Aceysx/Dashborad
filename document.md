@@ -38,6 +38,7 @@ layout: default
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
     - 学号-title
+     [16340180-qw2002q](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_彭仕扬qw2002q_体会.md>)
 * X5 [Final Report](x5-summary)
     - [学号-title](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
     - [小组分工与贡献率说明](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
