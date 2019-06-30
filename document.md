@@ -50,5 +50,5 @@ layout: default
      - [16340194-SO4P-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_SO4P_final_report.md)
      - [16340199-sunzh871041162-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340199_sunzh871041162_final_report.md)
      - [16340201-Derryyan](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340201-Derryyan.md)
-    - [小组分工与贡献率说明](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
+    - [小组分工与贡献率说明](https://github.com/the-earn-money-system/Document/blob/master/%E7%B3%BB%E5%88%86%E5%B0%8F%E7%BB%84%E5%88%86%E5%B7%A5%E4%B8%8E%E8%B4%A1%E7%8C%AE%E7%8E%87%E8%AF%B4%E6%98%8E.md)
 
