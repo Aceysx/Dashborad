@@ -40,9 +40,11 @@ layout: default
 * X2 [KANBAN](https://github.com/the-earn-money-system/Document/projects/1)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
-    - [16340180-qw2002q-动态列表的目标定位](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_qw2002q_报告.md>)
-    - [16340194-苏伟聪-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
+     - [动态列表的目标定位](https://github.com/the-earn-money-system/Document/blob/master/docs/report/动态列表的目标定位.md)
+     - [使用云函数操作数据库并使用返回的数据](https://github.com/the-earn-money-system/Document/blob/master/docs/report/使用云函数操作数据库并使用返回的数据.md)
 * X5 [Final Report](x5-summary)
-    - [学号-title](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
+    - 学号-title
+     - [16340180-qw2002q-报告](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_qw2002q_报告.md>)
+     - [16340194-苏伟聪-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
     - [小组分工与贡献率说明](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
 
