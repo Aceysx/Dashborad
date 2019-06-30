@@ -36,7 +36,7 @@ layout: default
     -   [Meeting 1(19/06/23)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2023.md)
     -   [Meeting 2(19/06/25)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2025.md)
     -   [Meeting 3(19/06/27)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2027.md)
-    -   [Meeting 3(19/06/27)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2030.md)
+    -   [Meeting 4(19/06/30)](https://github.com/the-earn-money-system/Document/blob/master/docs/Week%2018%20-%20Jun.%2030.md)
 * X2 [KANBAN](https://github.com/the-earn-money-system/Document/projects/1)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
