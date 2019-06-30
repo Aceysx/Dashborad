@@ -46,6 +46,6 @@ layout: default
     - 学号-title
      - [16340180-qw2002q-报告](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_qw2002q_报告.md>)
      - [16340194-苏伟聪-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
-     - [16340194-sunzh871041162-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340199_sunzhenhuan_final_report.md)
+     - [16340199-sunzh871041162-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340199_sunzhenhuan_final_report.md)
     - [小组分工与贡献率说明](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
 
