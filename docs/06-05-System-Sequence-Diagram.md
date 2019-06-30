@@ -43,4 +43,4 @@
 ## 修改个人信息
 简单描述：用户可以修改自己的学院和学号信息。
 
-![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-05-SSD-xiugai.png)
+![](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-05-SSD-xiugai.png?raw=true)
