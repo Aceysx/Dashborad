@@ -37,9 +37,8 @@ layout: default
 * X2 [KANBAN](X2-kanban)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
-    - 学号-title  
-     [16340180-qw2002q-动态列表的目标定位](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_彭仕扬qw2002q_体会.md>)
-     [16340194](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
+    - [16340180-qw2002q-动态列表的目标定位](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_彭仕扬qw2002q_体会.md>)
+    - [16340194-苏伟聪-报告](https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340194_suweicong_final_report.md)
 * X5 [Final Report](x5-summary)
     - [学号-title](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
     - [小组分工与贡献率说明](https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
