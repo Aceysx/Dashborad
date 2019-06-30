@@ -34,7 +34,7 @@ layout: default
     - 9.2 XX短视频
 * X1 [meeting-records](x1-meetings)
     - inception meeting (yy/mm/dd)
-* X2 [KANBAN](X2-kanban)
+* X2 [KANBAN](https://github.com/the-earn-money-system/Document/projects/1)
 * X3 [auditing-records](x3-auditing)
 * X4 [Tech/Work Report](x4-techniques)
     - [16340180-qw2002q-动态列表的目标定位](<https://github.com/the-earn-money-system/Document/blob/master/docs/report/16340180_彭仕扬qw2002q_体会.md>)
