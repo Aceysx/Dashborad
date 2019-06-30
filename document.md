@@ -19,16 +19,16 @@ layout: default
     - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-05-System-Sequence-Diagram.md)
     - 6.6 [Supplementary Requirements（补充需求）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-06-Supplementary%20Requirements.md)
 * 7、[Design](07-designs)（设计说明书）
-    - 7.1 UI design（界面设计）
-    - 7.2 [Database design（数据库设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/07-02-DatabaseER.PNG)
+    - 7.1 [UI design（界面设计）] (https://github.com/the-earn-money-system/Document/blob/master/docs/07-01-UI%20design.md)
+    - 7.2 [Database design（数据库设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/07-02-Database%20design.md)
     - 7.3 Interface API design（接口 API 设计）
-    - 7.4 Architecture design（架构设计）
-    - 7.5 Usecase design（用例设计）
+    - 7.4 [Architecture design（架构设计）] (https://github.com/the-earn-money-system/Document/blob/master/docs/软件设计文档.md)
+    - 7.5 [Usecase design（用例设计）](https://github.com/the-earn-money-system/Document/blob/master/docs/imgs/06-01-UsecaseDiagram.png?raw=true)
 * 8、生产规范与指南
     - 8.1 XX 代码规范
     - 8.2 REST API 设计规范
-    - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
-    - 8.4 部署说明
+    - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/the-earn-money-system/Document/blob/master/docs/软件设计文档.md)
+    - 8.4 [部署说明] (https://github.com/the-earn-money-system/Document/blob/master/docs/安装部署说明.md)
 * 9、成品展示
     - 9.1 XX短视频
     - 9.2 XX短视频
@@ -39,6 +39,6 @@ layout: default
 * X4 [Tech/Work Report](x4-techniques)
     - 学号-title
 * X5 [Final Report](x5-summary)
-    - 学号-title
-    - 小组分工与贡献率说明
+    - [学号-title] (https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
+    - [小组分工与贡献率说明] (https://github.com/the-earn-money-system/Document/blob/master/docs/小组分工与贡献率说明.md)
 
