@@ -11,13 +11,13 @@ layout: default
 * 3、[Investigation](https://github.com/the-earn-money-system/Document/blob/master/docs/03-Investigation.md)（项目前期调研/竞品分析）
 * 4、[Vision](https://github.com/the-earn-money-system/Document/blob/master/docs/04-Vision.md)（项目愿景）
 * 5、[Product Backlog](https://github.com/the-earn-money-system/Document/blob/master/docs/05-Product-Backlog.md) （产品特性库）
-* 6、[Requirement specification（需求规格说明书）](https://github.com/the-earn-money-system/Document/blob/master/docs/软件需求规格说明书.md)
+* 6、[Requirement specification（需求规格说明书）](https://github.com/the-earn-money-system/Document/blob/master/Requirement%20specification%EF%BC%88%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%89.md)
     - 6.1 [Usecase Diagram（用例图）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-01-usecase-diagram.md)
     - 6.2 [Use Cases（用例+活动图）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-02-Usecase-Activity.md)
     - 6.3 [Domian Models（领域模型）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-03-Domain-Model.md)
     - 6.4 [State Models（状态模型）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-04-State-Model.md)
     - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-05-System-Sequence-Diagram.md)
-    - 6.6 Supplementary Requirements（补充需求）
+    - 6.6 [Supplementary Requirements（补充需求）](https://github.com/the-earn-money-system/Document/blob/master/docs/06-06-Supplementary%20Requirements.md)
 * 7、[Design](07-designs)（设计说明书）
     - 7.1 UI design（界面设计）
     - 7.2 [Database design（数据库设计）]
